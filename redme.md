@@ -1,0 +1,1 @@
+https://medium.com/aerospike-developer-blog/caching-with-spring-boot-and-aerospike-17b91267d6c
